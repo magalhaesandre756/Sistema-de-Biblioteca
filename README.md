@@ -23,12 +23,12 @@ C, CMake
 
 ## Como executar
 
-\`\`\`
+```
 mkdir build && cd build
 cmake ..
 make
 ./Avaliacao
-\`\`\`
+```
 
 ## O que aprendi
 
